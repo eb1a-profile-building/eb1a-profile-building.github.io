@@ -1,10 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Professional EB1A and EB2-NIW Profile Building Strategies by Shivgan Joshi."
----
-
 # 🚀 EB1A & EB2-NIW Profile Building Portfolio
 **Transforming Professionals from Standard to Extraordinary**
 
