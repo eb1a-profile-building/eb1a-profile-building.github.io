@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**eb1a-profile-building/eb1a-profile-building** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to # EB1A & EB2-NIW Profile Building Portfolio
+# EB1A & EB2-NIW Profile Building Portfolio
 
 Welcome to the comprehensive repository for building an extraordinary professional profile for **EB1A (Extraordinary Ability)** and **EB2-NIW (National Interest Waiver)** petitions. 
 
@@ -47,14 +42,4 @@ We utilize a "Tech-Forward" approach to satisfy USCIS evidentiary requirements:
 3.  **Digital Footprint:** Building a verifiable online presence through technical and scholarly contributions.
 
 ---
-*Disclaimer: These resources are for educational profile-building purposes and do not constitute legal advice. Please consult with a licensed immigration attorney for specific petition filings.*get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Disclaimer: These resources are for educational profile-building purposes and do not constitute legal advice. Please consult with a licensed immigration attorney for specific petition filings.*
