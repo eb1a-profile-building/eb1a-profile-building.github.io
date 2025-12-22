@@ -81,30 +81,30 @@ Illustrative (non-exhaustive) discovery targets may include:
 
 ### United States & International Government Research Systems
 - **ERIC (Education Resources Information Center – U.S. Department of Education)**  
-  (including use as a scholarly research submission or public-comment–linked paper where appropriate)
-- **Science.gov** (U.S. federal science discovery portal)
-- **U.S. Department of Commerce Research Library**
-- **U.S. university institutional repositories (.edu commons)**
+  (including use as a scholarly research submission or public-comment–linked paper where appropriate) - Manual Submission by reputed co-author
+- **Science.gov** (U.S. federal science discovery portal) - This is done using Springer Lecture Notes Series 
+- **U.S. Department of Commerce Research Library** - Through selecting the right open access journal
+- **U.S. university institutional repositories (.edu commons)** - Manual submission through reputed co-authors
 
-### European & International Public Research Platforms
+### European & International Public Research Platforms through targeted opena acess Journals
 - **SCANR** (France – Ministry of Higher Education and Research)
 - **ISIDORE** (France – national humanities and social sciences platform)
 - **EuroPMC** (European research infrastructure)
 - **EPALE** (European Commission adult learning and policy platform)
 - **OUCI** (Ukraine – open citation index)
 
-### Australia & Global Policy Research Systems
+### Australia & Global Policy Research Systems - through targeted open aaccess journals and topics 
 - **VOCEDplus** (Australian government–supported vocational education research system)
 
-### Open Science & Archival Infrastructure
+### Open Science & Archival Infrastructure - through co-author and/or manual submissions 
 - **OSF (Open Science Framework)**
 - Other recognized public or open science repositories
 
-Discovery, indexing, and archival outcomes are determined **solely by independent third-party systems**.
+Discovery, indexing, and archival outcomes are determined **solely by independent third-party systems but we try to submit through co-authors who already have proven record of success**.
 
 ---
 
-## ERIC & Government Research Portal Support
+## ERIC & Government Research Portal Support done through manual submission by reputed co-authors
 
 Where the research topic is relevant to **education, workforce development, public policy, or applied government research**, the Service Provider may assist in preparing and submitting content suitable for consideration through:
 
@@ -164,3 +164,23 @@ The Client acknowledges that the Service Provider **does not guarantee**:
 - Immigration, visa, or petition outcomes  
 
 All outcomes depend on **independent third-party review bodies, publishers, repositories, indexing services, and government agencies**.
+
+
+## Service Availability & Geographic Scope
+
+At this time, this research mentorship and publication support service is **available only to clients who are physically based in**:
+
+- **New York City (NYC) Metropolitan Area**
+- **San Francisco Bay Area**
+
+This geographic limitation is due to:
+
+- The **current travel schedule and on-site availability of Shivgan Joshi who is based out of Indore MP India**,  
+- **Mentor availability and coordination constraints**, and  
+- The fact that this service **requires one or more in-person working sessions** to ensure effective research planning, manuscript review, and academic integrity oversight.
+
+These limitations are operational in nature and reflect the Service Provider’s commitment to maintaining quality, responsiveness, and effective collaboration.
+
+Availability may expand to additional regions in the future, subject to changes in travel plans, mentor capacity, and operational considerations, at the sole discretion of the Service Provider.
+
+Nothing on this page constitutes an offer of services outside the locations listed above.

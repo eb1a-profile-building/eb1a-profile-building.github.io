@@ -1,4 +1,4 @@
-# 🚀 EB1A & EB2-NIW Profile Building Portfolio
+# 🚀 EB1A & EB2-NIW Profile Building Consultant 
 **Transforming Professionals from Standard to Extraordinary**
 
 ![License: MIT](https://img.shields.io/badge/Focus-EB1A%20%26%20EB2--NIW-blue)
@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Overview
-Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
+Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program by Consultant Shivgan Joshi**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
 
 [View All Courses](courses) | [Research Paper Writing](eb1a_research_papers) | [Youtube](https://www.youtube.com/@joshishiv1848/videos) | [MSA](msa)
 
@@ -18,7 +18,7 @@ Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program
 ## 🎓 Course Catalog 
 *For full course details, visit the [View All Courses](courses) page*
 
-**Lead Instructor:** Shivgan Joshi
+**Lead Instructor:** Shivgan Joshi (Indore, India)
 
 ### 🔬 Research & Academic Strategy
 *Ideal for PhDs, Researchers, and Scholars.*
@@ -166,6 +166,26 @@ Through my comprehensive approach, you'll learn how to:
 - **ResearchGate:** [Shivgan Joshi Profile](https://www.researchgate.net/profile/Shivgan-Joshi-2)
 - **Location:** Indore, India (serving NYC/USA clients)
 - **Focus:** EB1A & EB2-NIW Profile Building, Research Strategy, Paralegal Services
+
+
+## Service Availability & Geographic Scope
+
+At this time, this research mentorship and publication support service is **available only to clients who are physically based in**:
+
+- **New York City (NYC) Metropolitan Area**
+- **San Francisco Bay Area**
+
+This geographic limitation is due to:
+
+- The **current travel schedule and on-site availability of Shivgan Joshi who is based out of Indore MP India**,  
+- **Mentor availability and coordination constraints**, and  
+- The fact that this service **requires one or more in-person working sessions** to ensure effective research planning, manuscript review, and academic integrity oversight.
+
+These limitations are operational in nature and reflect the Service Provider’s commitment to maintaining quality, responsiveness, and effective collaboration.
+
+Availability may expand to additional regions in the future, subject to changes in travel plans, mentor capacity, and operational considerations, at the sole discretion of the Service Provider.
+
+Nothing on this page constitutes an offer of services outside the locations listed above.
 
 
 ---
