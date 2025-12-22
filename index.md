@@ -17,13 +17,28 @@ Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program
 ## 🎓 Course Catalog
 **Lead Instructor:** Shivgan Joshi
 
+## 🎓 Course Catalog Preview
+*For full course details, visit the [View All Courses](courses) page*
+
+**Lead Instructor:** Shivgan Joshi
+
 ### 🔬 Research & Academic Strategy
 *Ideal for PhDs, Researchers, and Scholars.*
 
-* **[GenAI GPT for Research Papers](#)**: Accelerate your EB1A profile using GPT for literature synthesis and drafting.
-* **[Research Publication Support](#)**: Master the technical stack: LaTeX, TexStudio, Zotero, and Python.
-* **[Govt & EDU Citations](#)**: Strategies for securing organic citations and demonstrating "Major Significance."
-* **[Research Strategy DIY](#)**: A comprehensive guide to the NIW framework (Focus: NYC/USA).
+* **[EB2NIW EB1A Profile Building Program Research Strategy DIY](https://www.udemy.com/course/eb1a-research-profile-building-skills-and-tools-101-course/)**: Accelerate your EB1A profile using GPT for literature synthesis and drafting.
+* **[Research Article Publication Support for EB1A EB2 NIW DIY](https://www.udemy.com/course/tools-for-publishing-paper-101-get-thesis-eb1a-eb2-niw/)**: Master the technical stack: LaTeX, TexStudio, Zotero, and Python.
+* **[Govt Citations EDU Contri Maj Sig OCMS EB1A Prong 1 EB2NIW](https://www.udemy.com/course/research-paper-for-impact-citation-strategy-for-eb1a-eb2niw/)**: Strategies for securing organic citations and demonstrating "Major Significance."
+* **[Profile Building Research Papers EB1A EB2NIW 101 DIY Mini](https://www.udemy.com/course/profile-building-research-publications-for-eb1a-eb2niw-101/)**: A comprehensive guide to the NIW framework (Focus: NYC/USA).
+
+### 💻 Technical & Executive Pathways
+*Ideal for Software Engineers, Data Scientists, and Finance Leaders.*
+
+* **[RFE Response Toolkit Endeavor 3 Prongs EB2 NIW EB1A GenAI](https://www.udemy.com/course/endeavor-covering-letter-three-prongs-profile-eb2-niw-eb1a/)**: Success strategies without traditional "Research Paper" requirements.
+* **Alternative Evidence Path**: Leveraging GitHub, Open Source, Judging, and Volunteering.
+* **Profile Building 101**: The "Mini-DIY" roadmap to understanding journal strategies.
+
+
+
 
 ---
 
@@ -53,14 +68,14 @@ Shivgan actively publishes research on EB1A and EB2-NIW strategies, creating evi
 
 | Publication | Type | Date | Focus Area |
 |------------|------|------|------------|
-| **[Strategic Profile Building for EB-2 NIW and EB-1A Petitions](https://www.researchgate.net/publication/)** | Preprint | Nov 2025 | Comprehensive framework for documenting national interest and exceptional ability |
-| **[Systematic Approach to US Government Indexing and Citation Acquisition](https://www.researchgate.net/publication/)** | Preprint | Oct 2025 | Research impact strategies for EB1A and EB2 NIW |
-| **[Expert Opinion Independent Evaluation Letters and Generative AI](https://www.researchgate.net/publication/)** | Article | Jun 2025 | Tutorial for DIY applicants and paralegals |
-| **[Comparative Analysis of Professional RFE Response Services](https://www.researchgate.net/publication/)** | Preprint | Jun 2025 | Educational alternatives for RFE responses |
-| **[The AI Imperative: Policy and Financial Strategies for India](https://www.researchgate.net/publication/)** | Preprint | Apr 2025 | Workforce and economic resilience strategies |
-| **[Navigating Recent Trends in US Immigration](https://www.researchgate.net/publication/)** | Article | Apr 2025 | Strategies in light of emerging Gen AI |
-| **[EB1A Profile Building: Research Strategies and Computational Tools](https://www.researchgate.net/publication/)** | Preprint | Apr 2025 | USCIS approval strategies |
-| **[Comprehensive Analysis of EB1A and EB2-NIW RFEs](https://www.researchgate.net/publication/)** | Article | Jan 2025 | Trends, systemic challenges, and evidence-based frameworks |
+| **[Strategic Profile Building for EB-2 NIW and EB-1A Petitions](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Preprint | Nov 2025 | Comprehensive framework for documenting national interest and exceptional ability |
+| **[Systematic Approach to US Government Indexing and Citation Acquisition](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Preprint | Oct 2025 | Research impact strategies for EB1A and EB2 NIW |
+| **[Expert Opinion Independent Evaluation Letters and Generative AI](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Article | Jun 2025 | Tutorial for DIY applicants and paralegals |
+| **[Comparative Analysis of Professional RFE Response Services](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Preprint | Jun 2025 | Educational alternatives for RFE responses |
+| **[The AI Imperative: Policy and Financial Strategies for India](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Preprint | Apr 2025 | Workforce and economic resilience strategies |
+| **[Navigating Recent Trends in US Immigration](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Article | Apr 2025 | Strategies in light of emerging Gen AI |
+| **[EB1A Profile Building: Research Strategies and Computational Tools](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Preprint | Apr 2025 | USCIS approval strategies |
+| **[Comprehensive Analysis of EB1A and EB2-NIW RFEs](https://www.researchgate.net/profile/Shivgan-Joshi-2/research)** | Article | Jan 2025 | Trends, systemic challenges, and evidence-based frameworks |
 
 
 ---
@@ -150,7 +165,7 @@ Through my comprehensive approach, you'll learn how to:
 
 - **Udemy:** [Shivgan Joshi's Courses](https://www.udemy.com/user/shivganjoshi2/)
 - **YouTube:** [@joshishiv1848](https://www.youtube.com/@joshishiv1848/videos)
-- **ResearchGate:** [Shivgan Joshi Profile](https://www.researchgate.net/profile/Shivgan-Joshi)
+- **ResearchGate:** [Shivgan Joshi Profile](https://www.researchgate.net/profile/Shivgan-Joshi-2)
 - **Location:** Indore, India (serving NYC/USA clients)
 - **Focus:** EB1A & EB2-NIW Profile Building, Research Strategy, Paralegal Services
 
