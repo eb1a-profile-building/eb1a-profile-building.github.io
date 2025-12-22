@@ -192,3 +192,85 @@ Nothing on this page constitutes an offer of services outside the locations list
 > **Legal Disclaimer:** *The content provided here is for educational purposes only. Shivgan Joshi is not an attorney. Profile building is a long-term strategy; always consult with a qualified immigration lawyer before filing petitions.*
 
 ---
+## 📋 Current Service Status & Waitlist
+
+### ⏳ Limited Availability Notice
+Due to exceptionally high demand and our commitment to providing personalized, high-quality mentorship to current clients, **we are currently at full capacity and maintaining a waitlist for new engagements.**
+
+**Current Wait Time:** 3-6 months  
+**Status:** Overbooked / Full Capacity
+
+### 📝 How to Join the Waitlist
+
+1. **Email Us Your Inquiry**
+   - Send a detailed email to our official contact address
+   - Include your name, location, and specific EB1A/EB2-NIW needs
+   - Attach your current resume/CV for preliminary review
+
+2. **Request Master Service Agreement (MSA)**
+   - In your email, explicitly request the current Master Service Agreement
+   - We will send the MSA for your review and consideration
+
+3. **Waitlist Acknowledgment**
+   - Upon receiving your complete inquiry, we will:
+     - Send formal waitlist acknowledgment
+     - Provide your estimated position in the queue
+     - Share expected timeline for initial consultation
+     - Send the MSA for review (if requested)
+
+### 📧 Email Template for Waitlist Inquiry
+
+Subject: Waitlist Inquiry - [Your Name] - [Your Field]
+
+Dear Shivgan Joshi Team,
+
+I am interested in joining your EB1A/EB2-NIW profile building waitlist.
+
+Name: [Your Full Name]
+Current Location: [Your City/State]
+Target Visa Category: [EB1A / EB2-NIW / Both]
+Professional Field: [Your Industry/Field]
+Current Status: [Working Professional / Researcher / etc.]
+
+Please:
+
+    Add me to your official waitlist
+
+    Send the Master Service Agreement (MSA) for review
+
+    Provide waitlist acknowledgment with estimated timeline
+
+Attached is my resume/CV for preliminary review.
+
+Best regards,
+[Your Name]
+[Contact Information]
+text
+
+
+### ⚠️ Important Waitlist Policies
+
+- **No Upfront Fees:** Joining the waitlist is completely free
+- **No Guarantees:** Waitlist position does not guarantee eventual service engagement
+- **First-Come Basis:** Waitlist positions are allocated based on inquiry timestamp
+- **Preparation Recommended:** Use waiting time to complete Udemy courses and study YouTube materials
+- **Response Time:** Waitlist acknowledgment emails are typically sent within 7-10 business days
+
+### 📚 Recommended Preparation During Wait
+While waiting, we strongly recommend:
+1. Completing at least one Udemy course from our catalog
+2. Watching our foundational YouTube tutorial playlists
+3. Documenting your existing achievements and evidence
+4. Researching USCIS criteria and requirements
+
+### 🔄 Priority Access
+Current waitlist clients who have:
+- Completed Udemy courses (with certificates)
+- Prepared comprehensive achievement documentation
+- Clearly defined their profile goals
+
+...may receive priority consideration when capacity opens.
+
+---
+
+*Our waitlist system ensures that we maintain the quality and attention that has made our program successful, while providing fair access to prospective clients. We appreciate your patience and understanding as we work to serve current clients at our highest standard.*
