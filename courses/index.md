@@ -27,17 +27,17 @@ Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program
 ### 🔬 Research & Academic Strategy
 *Ideal for PhDs, Researchers, and Scholars.*
 
-* **[GenAI GPT for Research Papers](#)**: Accelerate your EB1A profile using GPT for literature synthesis and drafting.
-* **[Research Publication Support](#)**: Master the technical stack: LaTeX, TexStudio, Zotero, and Python.
-* **[Govt & EDU Citations](#)**: Strategies for securing organic citations and demonstrating "Major Significance."
-* **[Research Strategy DIY](#)**: A comprehensive guide to the NIW framework (Focus: NYC/USA).
+* **[GenAI GPT for Research Papers](https://www.udemy.com/course/eb1a-research-profile-building-skills-and-tools-101-course/)** - Accelerate your EB1A profile using GPT for literature synthesis and drafting.
+* **[Research Publication Support](https://www.udemy.com/course/tools-for-publishing-paper-101-get-thesis-eb1a-eb2-niw/)** - Master the technical stack: LaTeX, TexStudio, Zotero, and Python.
+* **[Govt & EDU Citations](https://www.udemy.com/course/research-paper-for-impact-citation-strategy-for-eb1a-eb2niw/)** - Strategies for securing organic citations and demonstrating "Major Significance."
+* **[Research Strategy DIY](https://www.udemy.com/course/profile-building-research-publications-for-eb1a-eb2niw-101/)** - A comprehensive guide to the NIW framework (Focus: NYC/USA).
 
 ### 💻 Technical & Executive Pathways
 *Ideal for Software Engineers, Data Scientists, and Finance Leaders.*
 
-* **[EB2-NIW for Tech/Fin Executives](#)**: Success strategies without the traditional "Research Paper" requirement.
-* **[Alternative Evidence Path](#)**: Leveraging GitHub, Open Source, Judging, and Volunteering.
-* **[Profile Building 101](#)**: The "Mini-DIY" roadmap to understanding journal strategies and program fundamentals.
+* **[EB2-NIW for Tech/Fin Executives](https://www.udemy.com/course/endeavor-covering-letter-three-prongs-profile-eb2-niw-eb1a/)** - Success strategies without the traditional "Research Paper" requirement.
+* **[Alternative Evidence Path](#)** - Leveraging GitHub, Open Source, Judging, and Volunteering.
+* **[Profile Building 101](#)** - The "Mini-DIY" roadmap to understanding journal strategies and program fundamentals.
 
 ---
 
@@ -51,8 +51,6 @@ We bridge the gap between technical work and legal evidence using modern technol
 | **Python** | Citation Analytics | High Salary / Commercial Success |
 | **LaTeX/Zotero** | Academic Rigor | Authorship of Scholarly Articles |
 
-
-
 ---
 
 ## 📈 Learning Objectives
@@ -65,7 +63,7 @@ We bridge the gap between technical work and legal evidence using modern technol
 
 ## 📬 Contact & Support
 * **Instructor:** Shivgan Joshi
-* **Udemy:** [udemy.com/user/shivganjoshi2](https://www.udemy.com/user/shivganjoshi2)
+* **Udemy:** [udemy.com/user/shivganjoshi2](https://www.udemy.com/user/shivganjoshi2/)
 * **Inquiries:** For collaborative research or course access, please open an Issue in this repository.
 
 ---

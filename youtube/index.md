@@ -15,29 +15,34 @@ description: "Professional EB1A and EB2-NIW Profile Building Strategies by Shivg
 ---
 
 ## 🌟 Overview
-Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
+Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program**. This repository hosts curated video resources and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
 
-[View All Courses](#-course-catalog) | [The Toolkit](#-the-profile-building-toolkit) | [Learning Objectives](#-learning-objectives)
+[Video Resources](#-video-resources) | [The Toolkit](#-the-profile-building-toolkit) | [Learning Objectives](#-learning-objectives)
 
 ---
 
-## 🎓 Course Catalog
-**Lead Instructor:** Shivgan Joshi
+## 📺 Video Resources
+**Free YouTube Tutorials & Case Studies**
 
-### 🔬 Research & Academic Strategy
-*Ideal for PhDs, Researchers, and Scholars.*
+Learn through these comprehensive video playlists and tutorials. All content is freely available on YouTube.
 
-* **[GenAI GPT for Research Papers](#)**: Accelerate your EB1A profile using GPT for literature synthesis and drafting.
-* **[Research Publication Support](#)**: Master the technical stack: LaTeX, TexStudio, Zotero, and Python.
-* **[Govt & EDU Citations](#)**: Strategies for securing organic citations and demonstrating "Major Significance."
-* **[Research Strategy DIY](#)**: A comprehensive guide to the NIW framework (Focus: NYC/USA).
+### 📹 Educational Playlists
 
-### 💻 Technical & Executive Pathways
-*Ideal for Software Engineers, Data Scientists, and Finance Leaders.*
+* **[EB1A Profile Building Case Study](https://www.youtube.com/playlist?list=PLClFeg5LJc_LBUMEu5RkEHmFE8s_tyOjE)** - Real-world examples and success stories for EB1A applicants
+* **[Research Publication Strategies](https://www.youtube.com/playlist?list=PLClFeg5LJc_K1bi7f1vCWLhwF2SrdBiJY)** - Techniques for effective paper publishing and journal selection
+* **[Citation Growth Methods](https://www.youtube.com/playlist?list=PLClFeg5LJc_IFuUxB5ZXn58nJVHAHvVoW)** - How to increase your academic impact and track citations
+* **[Tools & Technology Tutorials](https://www.youtube.com/playlist?list=PLClFeg5LJc_LyCBMEdHALWOF8MRQzIf3D)** - LaTeX, Python, Git, and automation guides for research
 
-* **[EB2-NIW for Tech/Fin Executives](#)**: Success strategies without the traditional "Research Paper" requirement.
-* **[Alternative Evidence Path](#)**: Leveraging GitHub, Open Source, Judging, and Volunteering.
-* **[Profile Building 101](#)**: The "Mini-DIY" roadmap to understanding journal strategies and program fundamentals.
+### 🎯 Featured Tutorials
+
+* **[EB1A Profile-Building Comprehensive Guide](https://www.youtube.com/watch?v=J9StLDI6bTE)** - Essential strategies for building a strong EB1A case from scratch
+* **More videos available on the YouTube channel** - Subscribe for regular updates and new content
+
+### 🎓 Learning Paths
+
+1. **For Beginners**: Start with the "EB1A Profile Building Case Study" playlist
+2. **For Researchers**: Focus on "Research Publication Strategies" and "Citation Growth Methods"
+3. **For Technical Professionals**: Explore "Tools & Technology Tutorials" for practical skills
 
 ---
 
@@ -51,24 +56,28 @@ We bridge the gap between technical work and legal evidence using modern technol
 | **Python** | Citation Analytics | High Salary / Commercial Success |
 | **LaTeX/Zotero** | Academic Rigor | Authorship of Scholarly Articles |
 
-
+**Video Tutorials Available**: Learn how to use all these tools in the "Tools & Technology Tutorials" playlist.
 
 ---
 
 ## 📈 Learning Objectives
 
-1. **Criteria Mastery** Identify and document at least 3 out of the 10 USCIS criteria for EB1A with high-quality evidence.
-2. **Dhanasar Framework Alignment** Structure your "Proposed Endeavor" to prove it has both Substantial Merit and National Importance.
-3. **Digital Footprint** Build a verifiable, high-authority online presence that establishes you as a person of extraordinary ability in your field.
+After watching these video resources, you will be able to:
+
+1. **Criteria Mastery** - Identify and document at least 3 out of the 10 USCIS criteria for EB1A with high-quality evidence
+2. **Dhanasar Framework Alignment** - Structure your "Proposed Endeavor" to prove it has both Substantial Merit and National Importance
+3. **Digital Footprint** - Build a verifiable, high-authority online presence that establishes you as a person of extraordinary ability in your field
+4. **Technical Skills** - Master essential tools like LaTeX, Python, and Git for research and evidence preparation
 
 ---
 
 ## 📬 Contact & Support
 * **Instructor:** Shivgan Joshi
-* **Udemy:** [udemy.com/user/shivganjoshi2](https://www.udemy.com/user/shivganjoshi2)
-* **Inquiries:** For collaborative research or course access, please open an Issue in this repository.
+* **YouTube Channel:** [EB1A & EB2-NIW Video Resources](https://www.youtube.com/playlist?list=PLClFeg5LJc_LBUMEu5RkEHmFE8s_tyOjE)
+* **For Updates:** Subscribe to the YouTube channel for new video content
+* **Inquiries:** For questions about video content, please comment on the relevant YouTube videos
 
 ---
-> **Legal Disclaimer:** *The content provided here is for educational purposes only. Shivgan Joshi is not an attorney. Profile building is a long-term strategy; always consult with a qualified immigration lawyer before filing petitions.*
+> **Legal Disclaimer:** *The video content provided here is for educational purposes only. Shivgan Joshi is not an attorney. Profile building is a long-term strategy; always consult with a qualified immigration lawyer before filing petitions.*
 
 ---
