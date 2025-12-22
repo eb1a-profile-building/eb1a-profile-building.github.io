@@ -1,7 +1,7 @@
 # RESEARCH SUPPORT SERVICES FRAMEWORK  
 **STANDARD OPERATING PROCEDURES & METHODOLOGICAL GUIDELINES**
 
-**Version 1.0 | Effective upon publication | Non-binding descriptive document**
+**Version 1.0 Dec 22 2025 | Effective upon publication | Non-binding descriptive document**
 
 ---
 
@@ -308,8 +308,7 @@ If any part of this dispute resolution clause is found to be unenforceable, the 
 
 ---
 
-**Note:** This clause should be integrated into a formal, legally binding service agreement. It is strongly recommended that both parties obtain independent legal counsel before signing any agreement containing such provisions. This draft is provided for informational purposes only and does not constitute legal advice.
-
+**Note:** It is strongly recommended that applicant obtain independent legal counsel before signing any agreement containing such provisions from an immigration attorney.
 ---
 
 ## 📋 Current Service Status & Waitlist
