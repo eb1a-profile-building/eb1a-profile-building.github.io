@@ -356,7 +356,7 @@ Please:
 
     Add me to your official waitlist
 
-    Send the Master Service Agreement (MSA) for review
+    Send the Latest Master Service Agreement (MSA) for review
 
     Provide waitlist acknowledgment with estimated timeline
 
@@ -372,9 +372,9 @@ text
 
 - **No Upfront Fees:** Joining the waitlist is completely free
 - **No Guarantees:** Waitlist position does not guarantee eventual service engagement
-- **First-Come Basis:** Waitlist positions are allocated based on inquiry timestamp
+- **First-Come Basis:** Waitlist positions are allocated based on inquiry timestamp and mentor availablity 
 - **Preparation Recommended:** Use waiting time to complete Udemy courses and study YouTube materials
-- **Response Time:** Waitlist acknowledgment emails are typically sent within 7-10 business days
+- **Response Time:** Waitlist acknowledgment emails with your position in que and mentor status are typically sent within 7-10 business days
 
 ### 📚 Recommended Preparation During Wait
 While waiting, we strongly recommend:
