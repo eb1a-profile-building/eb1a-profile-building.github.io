@@ -40,7 +40,7 @@ This document outlines the standard research support methodologies, pathways, an
 
 **§3.2** Target venues may include, where appropriate, publishers and platforms such as **Mid-tier open access journals, IEEE, Springer**, and other comparable peer-reviewed academic outlets focused on citation strategy or Scopus indexing strategy.
 
-**§3.3** Where feasible, preference is given to journals or conferences that are **indexed or abstracted in recognized scholarly databases**, such as **Scopus, Web of Science, ERIC, RePEc**, or equivalent indexing services, subject to publisher and database eligibility criteria.
+**§3.3** Where feasible, preference is given to journals or conferences that are **indexed or abstracted in recognized scholarly databases**, such as **Scopus, Web of Science, ERIC, RePEc, WOS, Research Commons**, or equivalent indexing services, subject to publisher and database eligibility criteria.
 
 **§3.4** Final submission venue decisions remain **solely with the Client**.
 
@@ -307,6 +307,79 @@ By agreeing to these terms, the Client:
 If any part of this dispute resolution clause is found to be unenforceable, the remainder shall continue in full force and effect, and the parties agree to seek modification by a court to achieve the original intent to the fullest extent permitted by law.
 
 ---
+
+## §16.0 PREFERRED CLIENT PROFILE: ATTORNEY COLLABORATION PREFERENCE
+
+### §16.1 Legal Collaboration Philosophy
+**§16.1.1** Our services are designed to **complement and enhance** existing immigration legal strategies, not replace them. We strongly prefer working with clients who have already engaged qualified immigration attorneys, as this allows us to focus on what we do best: **evidence development and academic profile enhancement**.
+
+**§16.1.2** By entering our program **after securing legal representation**, you benefit from:
+- **§16.1.2(a)** **Coordinated Strategy:** Your attorney handles the legal framework while we strengthen the evidentiary foundation
+- **§16.1.2(b)** **Clear Role Definition:** No overlap or confusion between legal advice and evidence building
+- **§16.1.2(c)** **Efficient Process:** Parallel preparation of legal and academic components
+- **§16.1.2(d)** **Enhanced Credibility:** Demonstrated commitment to proper legal process from the outset
+
+### §16.2 Seamless Attorney Integration Process
+**§16.2.1** When you join our program with an attorney already engaged, we can:
+- **§16.2.1(a)** **Attach Our NALA-Certified Paralegal Work** directly to your case file as supplementary evidence
+- **§16.2.1(b)** **Coordinate Evidence Development** with your attorney's legal strategy
+- **§16.2.1(c)** **Provide Documentation** that aligns with USCIS formatting and citation standards
+- **§16.2.1(d)** **Create Custom Evidence Packages** that complement your legal submission
+
+**§16.2.2 NALA-Certified Immigration Case Documentation:**
+Our certified paralegal services produce documentation that:
+- Meets professional legal standards
+- Is formatted for easy inclusion in legal filings
+- Includes proper citations and verifiable sources
+- Can be directly referenced in your attorney's submissions
+
+### §16.3 Optimal Engagement Model
+**§16.3.1** The most effective engagement model occurs when:
+1. **Client secures immigration attorney** (specialized in EB1A/EB2-NIW)
+2. **Initial legal consultation** establishes case strategy
+3. **Our program engagement begins** to build evidence per attorney guidance
+4. **Continuous collaboration** between our team and your attorney
+5. **Integrated submission** of legal and academic evidence
+
+**§16.3.2** This model ensures:
+- **§16.3.2(a)** Legal compliance maintained throughout
+- **§16.3.2(b)** Evidence quality matches legal requirements
+- **§16.3.2(c)** No conflicting advice or strategies
+- **§16.3.2(d)** Maximum preparation efficiency
+
+### §16.4 Legal Boundaries & Disclaimers
+**§16.4.1 We Are Not Attorneys:** Shivgan Joshi and our team are **not** licensed attorneys. We provide:
+- Research and publication support
+- Profile building guidance
+- Academic evidence development
+- NALA-certified paralegal documentation services
+
+**§16.4.2 We Do Not Provide:**
+- Legal advice or interpretation
+- USCIS form preparation (except as directed by your attorney)
+- Case strategy determination
+- Guarantees of approval
+
+**§16.4.3 Required Client Acknowledgment:**
+By engaging our services, you acknowledge that:
+- **§16.4.3(a)** You understand we are not attorneys
+- **§16.4.3(b)** You will maintain separate legal representation
+- **§16.4.3(c)** You bear final responsibility for all submissions to USCIS
+- **§16.4.3(d)** All evidence we develop will be reviewed by your attorney before submission
+
+### §16.5 Getting Started with Legal Representation
+**§16.5.1** If you haven't yet secured an immigration attorney, we recommend:
+1. **§16.5.1(a)** **Research qualified EB1A/EB2-NIW attorneys** (we can provide referrals if requested)
+2. **§16.5.1(b)** **Schedule initial consultations** with 2-3 attorneys
+3. **§16.5.1(c)** **Retain your chosen attorney** and begin legal strategy development
+4. **§16.5.1(d)** **Contact us** to begin evidence building in coordination with your legal team
+
+**§16.5.2 Clients with Existing Attorneys:** Please provide your attorney's contact information during our intake process so we can establish proper communication channels and ensure coordinated strategy development.
+
+---
+
+**Note:** This preference for attorney-represented clients reflects our commitment to professional standards and optimal case outcomes. While we can work with clients without attorneys, the most successful cases typically involve coordinated efforts between specialized legal counsel and our evidence-building expertise.
+
 
 **Note:** It is strongly recommended that applicant obtain independent legal counsel before signing any agreement containing such provisions from an immigration attorney.
 ---
