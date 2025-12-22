@@ -255,21 +255,68 @@ text
 - **Preparation Recommended:** Use waiting time to complete Udemy courses and study YouTube materials
 - **Response Time:** Waitlist acknowledgment emails are typically sent within 7-10 business days
 
-### 📚 Recommended Preparation During Wait
-While waiting, we strongly recommend:
-1. Completing at least one Udemy course from our catalog
-2. Watching our foundational YouTube tutorial playlists
-3. Documenting your existing achievements and evidence
-4. Researching USCIS criteria and requirements
+## 🎬 DIY While You Wait: Essential Preparation Tasks
 
-### 🔄 Priority Access
-Current waitlist clients who have:
-- Completed Udemy courses (with certificates)
-- Prepared comprehensive achievement documentation
-- Clearly defined their profile goals
+While you're on our 3-6 month waitlist, use this time productively! We've created a comprehensive video guide with specific, actionable tasks you can complete to prepare for your EB1A/EB2-NIW journey.
 
-...may receive priority consideration when capacity opens.
+### 📺 Watch This First: DIY Preparation Guide
+**🎥 [What to Do While on the Waitlist: Your 6-Month Action Plan](https://youtu.be/7EPig3FqhTk)**
+*This 30-minute video walks you through exactly what to work on while waiting for mentorship availability.*
 
+### ✅ Month-by-Month DIY Action Plan
+
+#### **Month 1-2: Foundation Building**
+- **Watch the above video** and take notes
+- **Enroll in one Udemy course** from our catalog (start with the "EB1A Research Strategy DIY" course)
+- **Create your evidence inventory** - list all existing achievements, publications, awards
+- **Set up basic tools**: Create Zotero account, GitHub profile, Google Scholar profile
+- **Complete:** At least 50% of your chosen Udemy course
+
+#### **Month 3-4: Skill Development**
+- **Finish your Udemy course** (aim for certificate completion)
+- **Watch key YouTube playlists** from our channel
+- **Start drafting** your accomplishment summaries
+- **Network strategically**: Identify potential recommenders in your field
+- **Create** a professional LinkedIn profile highlighting achievements
+
+#### **Month 5-6: Advanced Preparation**
+- **Document your "Proposed Endeavor"** outline
+- **Map your achievements** to USCIS criteria
+- **Prepare preliminary drafts** of major contributions evidence
+- **Research target journals/conferences** in your field
+- **Complete** all free tutorial materials on our YouTube channel
+
+### 📋 Checklist: Be "Waitlist-Ready"
+Check off these items before your consultation:
+
+- [ ] Udemy course certificate obtained
+- [ ] All "DIY While You Wait" video tasks completed
+- [ ] Evidence inventory spreadsheet created
+- [ ] Professional online profiles updated and optimized
+- [ ] Preliminary list of 5-8 potential recommenders identified
+- [ ] USCIS criteria self-assessment completed
+- [ ] 3-5 target publication venues researched
+- [ ] Initial draft of "Major Contributions" statement written
+
+### 🎯 Why This Preparation Matters
+Clients who complete these DIY tasks:
+1. **Get faster results** once mentorship begins
+2. **Require fewer sessions** to reach USCIS-ready status
+3. **Demonstrate commitment** that leads to better outcomes
+4. **Save time and money** by being prepared
+5. **Maximize the value** of our personalized mentorship time
+
+### 📝 Tracking Your Progress
+We recommend keeping a "Waitlist Preparation Journal" where you:
+1. Date each task completion
+2. Note insights and questions
+3. Track time spent on each activity
+4. Document challenges and solutions
+5. Prepare specific questions for your future consultation
+
+---
+
+*"The clients who succeed fastest are those who use waiting time as preparation time. Don't just wait—prepare!" - Shivgan Joshi*
 ---
 
 *Our waitlist system ensures that we maintain the quality and attention that has made our program successful, while providing fair access to prospective clients. We appreciate your patience and understanding as we work to serve current clients at our highest standard.*
