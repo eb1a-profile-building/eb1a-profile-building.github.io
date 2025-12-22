@@ -1,5 +1,5 @@
 # 🚀 EB1A & EB2-NIW Profile Building Consultant 
-**Transforming Professionals from Standard to Extraordinary**
+**Research Paper Consultancy and Mentor Search**
 
 ![License: MIT](https://img.shields.io/badge/Focus-EB1A%20%26%20EB2--NIW-blue)
 ![Instructor: Shivgan Joshi](https://img.shields.io/badge/Instructor-Shivgan%20Joshi-green)
@@ -8,7 +8,8 @@
 ---
 
 ## 🌟 Overview
-Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program by Consultant Shivgan Joshi**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
+Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program by Consultant Shivgan Joshi**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS. Research Paper Drafting & Publishing Help. Get matched with Ph.D. research partners for expert guidance.
+
 
 [View All Courses](courses) | [Research Paper Writing](eb1a_research_papers) | [Youtube](https://www.youtube.com/@joshishiv1848/videos) | [MSA](msa)
 
