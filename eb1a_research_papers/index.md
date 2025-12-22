@@ -1,5 +1,3 @@
----
-
 ## Mentorship for Paper Publication: Supporting EB-1A Criteria
 **Structured, MSA-Based Research & Publication Mentorship**
 
