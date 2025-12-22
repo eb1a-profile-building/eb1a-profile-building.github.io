@@ -14,10 +14,8 @@ Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program
 
 ---
 
-## 🎓 Course Catalog
-**Lead Instructor:** Shivgan Joshi
 
-## 🎓 Course Catalog Preview
+## 🎓 Course Catalog 
 *For full course details, visit the [View All Courses](courses) page*
 
 **Lead Instructor:** Shivgan Joshi

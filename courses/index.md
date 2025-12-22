@@ -17,7 +17,8 @@ description: "Professional EB1A and EB2-NIW Profile Building Strategies by Shivg
 ## 🌟 Overview
 Welcome to the official portal for the **EB1A & EB2-NIW Profile Building Program**. This repository hosts a curated suite of courses and methodologies designed to help high-skilled professionals, researchers, and tech executives meet the rigorous "Extraordinary Ability EB1A Green Card" and "National Interest Waiver Green Card" standards set by USCIS.
 
-[View All Courses](#-course-catalog) | [The Toolkit](#-the-profile-building-toolkit) | [Learning Objectives](#-learning-objectives)
+[View All Courses](courses) | [Research Paper Writing](eb1a_research_papers) | [Youtube](https://www.youtube.com/@joshishiv1848/videos) | [MSA](msa)
+
 
 ---
 
