@@ -1,4 +1,4 @@
-# EB1A & EB2-NIW Profile Building Portfolio
+# EB1A Research Papers & EB2-NIW Profile Building Portfolio
 
 Welcome to the comprehensive repository for building an extraordinary professional profile for **EB1A (Extraordinary Ability)** and **EB2-NIW (National Interest Waiver)** petitions. 
 
