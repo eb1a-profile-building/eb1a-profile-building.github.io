@@ -1,4 +1,4 @@
-# 🚀 EB1A & EB2-NIW Profile Building Consultant 
+# 🚀 EB1A Research Papers & EB2-NIW Profile Building Consultant 
 **Research Paper Consultancy and Mentor Search**
 
 ![License: MIT](https://img.shields.io/badge/Focus-EB1A%20%26%20EB2--NIW-blue)
