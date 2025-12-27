@@ -10,6 +10,8 @@ https://www.udemy.com/course/eb1a-research-profile-building-skills-and-tools-101
 
 
 https://www.udemy.com/course/tools-for-publishing-paper-101-get-thesis-eb1a-eb2-niw/
+
+
 ---
 
 ## 🎓 EB1A & EB2-NIW Course Catalog
