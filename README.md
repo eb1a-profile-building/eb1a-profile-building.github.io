@@ -7,6 +7,8 @@ Welcome to the comprehensive repository for building an extraordinary profession
 This program focuses on transitioning professionals from "Standard" to "Extraordinary" using data-driven strategies, GenAI, and technical contributions.
 
 https://www.udemy.com/course/eb1a-research-profile-building-skills-and-tools-101-course/
+
+
 https://www.udemy.com/course/tools-for-publishing-paper-101-get-thesis-eb1a-eb2-niw/
 ---
 
