@@ -53,7 +53,7 @@ I provide expert EB-1A research paper support and scholarly writing consultancy 
 
 ## 🌟 About Shivgan Joshi
 
-**Shivgan Joshi** is a leading EB1A & EB2-NIW Research Publication Strategist and certified Paralegal who has helped thousands of professionals transform their careers through systematic profile building. With over 169,945 learners and 6,325+ reviews across his educational programs, he has established himself as a trusted authority in immigration-focused academic strategy.
+**Shivgan Joshi** is a leading EB1A & EB2-NIW Research Publication Strategist who has helped thousands of professionals transform their careers through systematic profile building. With over 169,945 learners and 6,325+ reviews across his educational programs, he has established himself as a trusted authority in immigration-focused academic strategy.
 
 ### 🎓 Professional Background
 - **EB1A & EB2-NIW Research Paper Profile Building**
@@ -144,7 +144,7 @@ Shivgan actively publishes research on EB1A and EB2-NIW strategies, creating evi
 
 ## 📈 Teaching Philosophy
 
-**"I don't just advise—I teach you exactly how to build your EB1A or EB2-NIW profile step-by-step along with certified Paralegal services."**
+**"I don't just advise—I teach you exactly how to build your EB1A or EB2-NIW profile step-by-step along with parterned certified Paralegal services."**
 
 Through my comprehensive approach, you'll learn how to:
 - Write publishable research papers from scratch
